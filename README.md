@@ -7,20 +7,20 @@ ___
 
 #### Number and name of feature:  Feature #1: Display images
 
-#### Estimate of time needed to complete:  
+#### Estimate of time needed to complete:  1 hour
 
-#### Start time:  
+#### Start time:  1:20 AM
 
-#### Finish time:  
+#### Finish time:  1:58 AM
 
-#### Actual time needed to complete:  
+#### Actual time needed to complete:  38 min
 ___
 
 ___
 
 #### Number and name of feature:  Feature #2: Filter images
 
-#### Estimate of time needed to complete:  
+#### Estimate of time needed to complete:  1 hour and 20 minutes
 
 #### Start time:  
 
