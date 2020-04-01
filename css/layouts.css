@@ -1,0 +1,22 @@
+img{
+    width: 500px;
+}
+main{
+    margin: 0 auto;
+    margin-left: 403px;
+    /* height: 200px; */
+    /* margin-left: 11px;
+    height: 2608px; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* flex-flow: column wrap; */
+    justify-content: space-evenly;
+}
+nav {
+    text-align: center;
+}
+/* section {
+    width: 600px;
+    height: 652px;
+} */
